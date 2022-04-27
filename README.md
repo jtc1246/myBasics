@@ -1,4 +1,4 @@
-# myBasics v1.0.0
+# MyBasics v1.0.0
 Some basic python tools.
 
 1. Base64 converter
